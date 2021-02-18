@@ -1,0 +1,28 @@
+h1 {
+  color: black;
+}
+.Badges__container {
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.Badges__buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.Badges__buttons h1 {
+  margin-right: 10%;
+}
+
+.Badges__boxing {
+  /* display: flex; */
+  width: 100%;
+  margin-bottom: 2%;
+  justify-content: space-between;
+}
+
+/* #obj1 {display: none;}
+
+#obj2 {display: none;} */

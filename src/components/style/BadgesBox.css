@@ -1,0 +1,23 @@
+.BadgesBox {
+    overflow: auto;
+    justify-content: space-between;
+}
+
+.BadgesBox_title {
+    width: 100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-size: 40px;
+}
+
+.BadgesBox_boxing {
+    display: flex;
+    width: 200%;
+    height: 600px;
+    margin-right: 1%;
+    align-items: center;
+    justify-content: space-between;
+}

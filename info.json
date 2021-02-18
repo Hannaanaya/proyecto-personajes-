@@ -1,0 +1,108 @@
+{
+  "initalState": {
+    "mylist": [],
+    "condena": [
+      {
+        "id": 1,
+        "name": "Exon",
+        "old": "19 años",
+        "raza": "Espectro oscuro",
+        "title": "Condena Sangrienta",
+        "cover": "https://i.pinimg.com/564x/4c/b9/94/4cb994bf8151c7b3bf96a3bb5de04139.jpg"
+      },
+      {
+        "id": 2,
+          "name": "André",
+          "old": "19 años",
+          "raza": "Humano",
+          "title": "Condena Sangrienta",
+          "cover": "https://i.pinimg.com/564x/af/0a/cb/af0acbb090a1ebd2736e673049d66be4.jpg"
+      },
+      {
+        "id": 3,
+          "name": "Shon",
+          "old": "Incierto",
+          "raza": "Dragón",
+          "title": "Condena Sangrienta",
+          "cover": "https://i.pinimg.com/236x/80/90/49/80904983b50d7d1500050ec69833b9a4.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Fiona",
+        "old": "18 años",
+        "raza": "Moondana",
+        "title": "Condena Sangrienta",
+        "cover": "https://i.pinimg.com/564x/03/cb/34/03cb34b930bab210ae6002f7c6d70e4a.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Rosalinda",
+        "old": "17 años",
+        "raza": "Humana",
+        "title": "Condena Sangrienta",
+        "cover": "https://i.pinimg.com/564x/05/86/2e/05862e9162cee944955a54e994e17dc9.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Lucia",
+        "old": "18 años",
+        "raza": "Humana",
+        "title": "Condena Sangrienta",
+        "cover": "https://i.pinimg.com/236x/23/63/33/236333030755254d6387f5081e945f18.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Yane",
+        "old": "19 años",
+        "raza": "Humana",
+        "title": "Condena Sangrienta",
+        "cover": "https://i.pinimg.com/564x/1d/06/34/1d0634cc22de8e0742ac2a2d3ce3ca47.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Jack",
+        "old": "18 años",
+        "raza": "Humano",
+        "title": "Condena Sangrienta",
+        "cover": "https://i.pinimg.com/564x/ca/a7/27/caa72722268230ce669e41fc6a66a78d.jpg"
+      }
+    ],
+    "nicolas": [
+      {
+        "id": 9,
+        "name": "Nicolás Beryclooth",
+        "old": "18 años",
+        "title": "Mi demonio Nicolás",
+        "cover": "https://i.pinimg.com/564x/66/84/cd/6684cd78b4027eac849b89622deda856.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Arthur Beryclooth",
+        "old": "16 años",
+        "title": "Mi demonio Nicolás",
+        "cover": "https://i.pinimg.com/564x/88/8c/ff/888cff389ee57841e8dabc4d04512d90.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Adrián Hale",
+        "old": "16 años",
+        "title": "Mi demonio Nicolás",
+        "cover": "https://i.pinimg.com/originals/ae/8e/24/ae8e24d7fedc77f5c3f0d83f0a1c410c.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Jordan",
+        "old": "26 años",
+        "title": "Mi demonio Nicolás",
+        "cover": "https://i.pinimg.com/564x/3f/8a/d7/3f8ad7bde9e9a05b51546abf6b4b0629.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Wendy Floire",
+        "old": "18 años",
+        "title": "Mi demonio Nicolás",
+        "cover": "https://i.pinimg.com/originals/63/8d/f7/638df7a1c3df888b95bcb05058997139.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+.BadgesSecond {
+    width: 100%;
+}
+
+.BadgesSecond_button {
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+  margin-bottom: 2%;
+  }
