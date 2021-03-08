@@ -1,2 +1,2 @@
 # proyecto-personajes-
-React-Conección de información de una fakeApi 
+React-Conexión de información de una fakeApi 
